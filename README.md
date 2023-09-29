@@ -1,5 +1,4 @@
 <h2 align="center">Hi, I'm Joaquín Victoria Sanmartín</h2>
-<style> a:link {text-decoration: none;} </style>
 
 ###
 
@@ -37,6 +36,7 @@
 ###
 
 <div align="left">
+<style> a:link {text-decoration: none;} </style>
   <a href="mailto:joaquinvictoriasanmartin@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
