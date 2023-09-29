@@ -37,6 +37,7 @@
 
 <div align="left">
   <a href="mailto:joaquinvictoriasanmartin@gmail.com" target="_blank">
+    <style> a:link {text-decoration: none;} </style>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/joaquinvictoriasanmartin" target="_blank">
