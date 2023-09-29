@@ -42,14 +42,14 @@
   <a href="https://www.linkedin.com/in/joaquinvictoriasanmartin" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-  #img-link, #img-link img{
+  <img{
    text-decoration: none !important;
    border:0px !important;
    outline:none;
    border-width: 0px;
    outline-width:0px;
    border-bottom: none;
-}
+}>
 </div>
 
 ###
