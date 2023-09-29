@@ -36,12 +36,6 @@
 ###
 
 <div align="left">
-  <style>
-  a:link {
-  color: green;
-  background-color: transparent;
-  text-decoration: none;}
-  </style>
   <a href="mailto:joaquinvictoriasanmartin@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
