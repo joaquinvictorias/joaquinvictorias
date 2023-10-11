@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="220" src="https://raw.githubusercontent.com/joaquinvictorias/Joaquin_Portfolio/main/Joaqu%C3%ADn.png"  />
+<img align="right" height="220" src="https://raw.githubusercontent.com/joaquinvictorias/Joaquin_Portfolio/main/Joaqu%C3%ADnLaptop.png"  />
 
 ###
 
